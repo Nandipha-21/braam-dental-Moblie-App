@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dentalApp</string>
+    <string-array name="appointment_types">
+        <item>Teeth Cleaning (30 min)</item>
+        <item>Filling (45 min)</item>
+        <item>Check-up (20 min)</item>
+    </string-array>
+</resources>

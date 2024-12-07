@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "243036520479",
+    "firebase_url": "https://malevolentmotion-default-rtdb.firebaseio.com",
+    "project_id": "malevolentmotion",
+    "storage_bucket": "malevolentmotion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243036520479:android:c9041aa851ef86a9b4952a",
+        "android_client_info": {
+          "package_name": "com.example.bmdental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2PIgFScpNhwT6n1rrHtj7q3Z-41sUDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243036520479:android:85a423db4f9c3ab6b4952a",
+        "android_client_info": {
+          "package_name": "com.example.dentalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2PIgFScpNhwT6n1rrHtj7q3Z-41sUDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243036520479:android:f392dd51156724d8b4952a",
+        "android_client_info": {
+          "package_name": "com.example.doc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2PIgFScpNhwT6n1rrHtj7q3Z-41sUDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
